@@ -4,15 +4,19 @@
 		<Container ID="Configuration">
             <Key ID="STR_INCREASE_NVG_BIRGHTNESS_TITLE">
                 <Original>Increase NVG Brightness</Original>
+                <Spanish>Aumentar el brillo de la Visión Nocturna</Spanish>
             </Key>
             <Key ID="STR_INCREASE_NVG_BIRGHTNESS_DESC">
                 <Original>Allows the player to increase the NVG brightness.</Original>
+                <Spanish>Permite al jugador aumentar el brillo de la Visión Nocturna</Spanish>
             </Key>
             <Key ID="STR_DECREASE_NVG_BIRGHTNESS_TITLE">
                 <Original>Decrease NVG Brightness</Original>
+                <Spanish>Disminuir el brillo de la Visión Nocturna</Spanish>
             </Key>
             <Key ID="STR_DECREASE_NVG_BIRGHTNESS_DESC">
                 <Original>Allows the player to decrease the NVG brightness.</Original>
+                <Spanish>Permite al jugador disminuir el brillo de la Visión Nocturna</Spanish>
             </Key>
 		</Container>
 	</Package> 
