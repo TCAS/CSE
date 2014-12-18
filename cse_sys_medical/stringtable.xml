@@ -5,9 +5,11 @@
         <Container ID="Configuration">
             <Key ID="STR_OPEN_CMS_MENU_TITLE">
                 <Original>Open Combat Medical System Menu</Original>
+                <Spanish>Abrir Menú CMS</Spanish>
             </Key>
             <Key ID="STR_OPEN_CMS_MENU_DESC">
                 <Original>Opens the CMS menu</Original>
+                <Spanish>Abre el menu CMS</Spanish>
             </Key>
         </Container>
  
@@ -115,6 +117,7 @@
             <Key ID="STR_CSE_ACTION_STOP_CPR">
                 <Original>Stop CPR</Original>
                 <English>Stop CPR</English>
+                <Spanish>Abortar CPR</Spanish>
             </Key>
 
 
@@ -198,6 +201,7 @@
             <Key ID="STR_CSE_ACTION_STOP_CPR_TOOLTIP">
                 <Original>Stop providing CPR.</Original>
                 <English>Stop providing CPR.</English>
+                <Spanish>Dejar de aplicar CPR</Spanish>
             </Key>
         </Container>
  
@@ -295,6 +299,7 @@
             <Key ID="STR_CSE_UI_TOGGLE_SELF">
                 <Original>Toggle (Self)</Original>
                 <French>Activer (sois)</French>
+                <Spanish>Alternar</Spanish>
             </Key>
             <Key ID="STR_CSE_UI_SELECT_TRIAGE_STATUS">
                 <Original>Select triage status</Original>
