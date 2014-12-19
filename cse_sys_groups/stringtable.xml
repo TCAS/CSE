@@ -6,104 +6,122 @@
 				<Original>Column</Original>
 				<English>Column</English>
 				<German>Kolonne</German>
+				<Spanish>Columna</Spanish>
 			</Key>
 			<Key ID="STR_CSE_GROUP_FORM_STAG_SHORT">
 				<Original>Stag Column</Original>
 				<English>Stag Column</English>
 				<German>Gest.Kolonne</German>
+				<Spanish>Columna Esc.</Spanish>
 			</Key>
 
 			<Key ID="STR_CSE_GROUP_FORM_WEDGE_SHORT">
 				<Original>Wedge</Original>
 				<English>Wedge</English>
 				<German>Keil</German>
+				<Spanish>Cuña</Spanish>
 			</Key>
 
 			<Key ID="STR_CSE_GROUP_FORM_ECHL_SHORT">
 				<Original>Echelon L</Original>
 				<English>Echelon L</English>
 				<German>Staffel L</German>
+				<Spanish>Escalón Izq.</Spanish>
 			</Key>
 
 			<Key ID="STR_CSE_GROUP_FORM_ECHR_SHORT">
 				<Original>Echelon R</Original>
 				<English>Echelon R</English>
 				<German>Staffel R</German>
+				<Spanish>Escalon Der.</Spanish>
 			</Key>
 
 			<Key ID="STR_CSE_GROUP_FORM_VEE_SHORT">
 				<Original>Vee</Original>
 				<English>Vee</English>
 				<German>V-Form.</German>
+				<Spanish>V Invertida</Spanish>
 			</Key>
 
 			<Key ID="STR_CSE_GROUP_FORM_LINE_SHORT">
 				<Original>Line</Original>
 				<English>Line</English>
 				<German>Linie</German>
+				<Spanish>Línea</Spanish>
 			</Key>
 
 			<Key ID="STR_CSE_GROUP_FORM_FILE_SHORT">
 				<Original>File</Original>
 				<English>File</English>
 				<German>Komp.Kolonne</German>
+				<Spanish>Hilera</Spanish>
 			</Key>
 			<Key ID="STR_CSE_GROUP_FORM_DIAMOND_SHORT">
 				<Original>Diamond</Original>
 				<English>Diamond</English>
 				<German>Raute</German>
+				<Spanish>Diamante</Spanish>
 			</Key>
 
 			<Key ID="STR_CSE_GROUP_FORM_COLUMN_TOOLTIP">
 				<Original>Column</Original>
 				<English>Column</English>
 				<German>Kolonnenformation</German>
+				<Spanish>Columna</Spanish>
 			</Key>
 			<Key ID="STR_CSE_GROUP_FORM_STAG_TOOLTIP">
 				<Original>Staggered Column</Original>
 				<English>Staggered Column</English>
 				<German>Gestaffelte Kolonne</German>
+				<Spanish>Columna Escalonada</Spanish>
 			</Key>
 
 			<Key ID="STR_CSE_GROUP_FORM_WEDGE_TOOLTIP">
 				<Original>Wedge formation</Original>
 				<English>Wedge formation</English>
 				<German>Keilformation</German>
+				<Spanish>Formación Cuña</Spanish>
 			</Key>
 
 			<Key ID="STR_CSE_GROUP_FORM_ECHL_TOOLTIP">
 				<Original>Echelon Left</Original>
 				<English>Echelon Left</English>
 				<German>Staffel Links</German>
+				<Spanish>Escalón Izquierda</Spanish>
 			</Key>
 
 			<Key ID="STR_CSE_GROUP_FORM_ECHR_TOOLTIP">
 				<Original>Echelon Right</Original>
 				<English>Echelon Right</English>
 				<German>Staffel Rechts</German>
+				<Spanish>Escalón Derecha</Spanish>
 			</Key>
 
 			<Key ID="STR_CSE_GROUP_FORM_VEE_TOOLTIP">
 				<Original>Vee formation</Original>
 				<English>Vee formation</English>
 				<German>V-Formation</German>
+				<Spanish>Formación V</Spanish>
 			</Key>
 
 			<Key ID="STR_CSE_GROUP_FORM_LINE_TOOLTIP">
 				<Original>Line formation</Original>
 				<English>Line formation</English>
 				<German>Linienformation</German>
+				<Spanish>Formación Línea</Spanish>
 			</Key>
 
 			<Key ID="STR_CSE_GROUP_FORM_FILE_TOOLTIP">
 				<Original>File formation</Original>
 				<English>File formation</English>
 				<German>Kompakte Kolonnenformation</German>
+				<Spanish>Formación Hilera</Spanish>
 			</Key>
 			<Key ID="STR_CSE_GROUP_FORM_DIAMOND_TOOLTIP">
 				<Original>Diamond formation</Original>
 				<English>Diamond formation</English>
 				<German>Rautenformation</German>
+				<Spanish>Formación Diamante</Spanish>
 			</Key>
 
 
@@ -111,6 +129,7 @@
 				<Original>Formations</Original>
 				<English>Formations</English>
 				<German>Formationen</German>
+				<Spanish>Formaciones</Spanish>
 			</Key>
 			<Key ID="STR_CSE_GROUP_SWITCHFORMATION_TOOLTIP">
 				<Original>Order Formation</Original>
