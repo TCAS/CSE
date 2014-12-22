@@ -135,6 +135,7 @@
 				<Original>Order Formation</Original>
 				<English>Order Formation</English>
 				<German>Formationsbefehl</German>
+				<Spanish>Ordenar Formaciones</Spanish>
 			</Key>
 
 
@@ -143,16 +144,19 @@
 				<Original>Lead Group</Original>
 				<English>Lead Group</English>
 				<German>Gruppe anführen</German>
+				<Spanish>Grupo de cabeza</Spanish>
 			</Key>
 			<Key ID="STR_CSE_GROUP_REQUESTLEADER_TOOLTIP">
 				<Original>Request group leader to take over group leader</Original>
 				<English>Request group leader to take over group leader</English>
 				<German>Gruppenführerschaft anfordern</German>
+				<Spanish>Requerir un lider para que tome el control del grupo</Spanish>
 			</Key>
 			<Key ID="STR_CSE_GROUP_REQUESTLEADER_MESSAGE">
 				<Original>%1 requests to be leader of this group</Original>
 				<English>%1 requests to be leader of this group</English>
 				<German>%1 bittet um Gruppenführerschaft</German>
+				<Spanish>%1 pide liderazgo de grupo</Spanish>
 			</Key>
 
 
@@ -161,11 +165,13 @@
 				<Original>Your shoulder was tapped!</Original>
 				<English>Your shoulder was tapped!</English>
 				<German>Jemand hat dich angestupst!</German>
+				<Spanish>Te han tocado el hombro¡</Spanish>
 			</Key>
 			<Key ID="STR_CSE_SHOULDER_TAP_GRP">
 				<Original>Shoulder Tap</Original>
 				<English>Shoulder Tap</English>
 				<German>Schultergriff</German>
+				<Spanish>Toque en el hombro</Spanish>
 			</Key>
 
 
@@ -174,31 +180,38 @@
 				<Original>Shoulder Tap</Original>
 				<English>Shoulder Tap</English>
 				<German>Schultergriff</German>
+				<Spanish>Toque en el hombro</Spanish>
 			</Key>
 			<Key ID="STR_CS_SHOULDER_TAP_DESC">
 				<Original>When pressed, you tap the shoulder of the unit in front of you. This depends on the Shoulder Tap settings from the Groups Module.</Original>
 				<English>When pressed, you tap the shoulder of the unit in front of you. This depends on the Shoulder Tap settings from the Groups Module.</English>
 				<German>Stupst die Einheit vor dir an der Schulter an. Dies hängt von den Schulter-Check Einstellungen im Gruppenmodul ab.</German>
+				<Spanish>Cuando se selecciona, tocas el hombro de la unidad que tengas en frente. Depende de la configuración del Módulo Grupos.</Spanish>
 			</Key>
 
 
 
 			<Key ID="STR_CSE_GROUP_REQUESTJOINGRP_SHORT">
 				<Original>Join Group</Original>
+				<Spanish>Unirse al Grupo</Spanish>
 			</Key>
 			<Key ID="STR_CSE_GROUP_REQUESTJOINGRP_TOOLTIP">
 				<Original>Join target Group</Original>
+				<Spanish>Unirse al Grupo</Spanish>
 			</Key>
 			<Key ID="STR_CSE_GROUP_REQUESTJOINGRP_MESSAGE">
 				<Original>%1 requests to join your group</Original>
+				<Spanish>%1 pide unirse a su grupo</Spanish>
 			</Key>
 
 
 			<Key ID="STR_CSE_GROUP_LEAVEGRP_SHORT">
 				<Original>Leave Group</Original>
+				<Spanish>Salir del Grupo</Spanish>
 			</Key>
 			<Key ID="STR_CSE_GROUP_LEAVEGRP_TOOLTIP">
 				<Original>Leave Current Group</Original>
+				<Spanish>Salir del Grupo</Spanish>
 			</Key>
 
 		</Container>
