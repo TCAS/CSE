@@ -5,46 +5,57 @@
 			<Key ID="STR_CSE_DIALOG_MEET_AND_GREET">
 				<Original>Meet and Greet</Original>
 				<English>Meet and Greet</English>
+				<Spanish>Saludar</Spanish>
 			</Key>
 			<Key ID="STR_CSE_DIALOG_ASK_ABOUT_OCCUPATION">
 				<Original>Ask about Occupation</Original>
 				<English>Ask about Occupation</English>
+				<Spanish>Preguntar sobre su ocupación</Spanish>
 			</Key>
 			<Key ID="STR_CSE_DIALOG_ASK_ABOUT_STANCE">
 				<Original>Ask about Their supported side</Original>
 				<English>Ask about Their supported side</English>
+				<Spanish>Preguntar sobre su bando</Spanish>
 			</Key>
 			<Key ID="STR_CSE_DIALOG_ASK_ABOUT_HOME">
 				<Original>Ask about there home</Original>
 				<English>Ask about there home</English>
+				<Spanish>Preguntar acerca de su hogar</Spanish>
 			</Key>
 			<Key ID="STR_CSE_DIALOG_ASK_ABOUT_CULTURE">
 				<Original>Find out their culture</Original>
 				<English>Find out their culture</English>
+				<Spanish>Averigüe su cultura</Spanish>
 			</Key>
 			<Key ID="STR_CSE_DIALOG_ASK_ABOUT_DOB">
 				<Original>Ask about Date of Birth</Original>
 				<English>Ask about Date of Birth</English>
+				<Spanish>Preguntar fecha de nacimiento</Spanish>
 			</Key>
 			<Key ID="STR_CSE_DIALOG_ASK_ABOUT_INTEL">
 				<Original>Ask information</Original>
 				<English>Ask information</English>
+				<Spanish>Pedir información</Spanish>
 			</Key>
 			<Key ID="STR_CSE_DIALOG_ASK_ABOUT_ENEMY">
 				<Original>Ask about enemy</Original>
 				<English>Ask about enemy</English>
+				<Spanish>Preguntar sobre el enemigo</Spanish>
 			</Key>
 			<Key ID="STR_CSE_DIALOG_GIVE_MONEY">
 				<Original>Give Money</Original>
 				<English>Give Money</English>
+				<Spanish>Dar Dinero</Spanish>
 			</Key>
 			<Key ID="STR_CSE_DIALOG_GIVE_AID_PACKAGE">
 				<Original>Give Aid Package</Original>
 				<English>Give Aid Package</English>
+				<Spanish>Dar paquete de ayuda médica</Spanish>
 			</Key>
 			<Key ID="STR_CSE_DIALOG_OFFER_MEDICAL_AID">
 				<Original>Offer medical Aid</Original>
 				<English>Offer medical Aid</English>
+				<Spanish>Ofrecer ayuda médica</Spanish>
 			</Key>
 		</Container>
 	</Package>
