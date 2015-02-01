@@ -331,7 +331,7 @@
                 <Original>Remove applied Tourniquet</Original>
                 <Polish>Zdejmij założoną na kończynę stazę</Polish>
                 <Russian>Снять ранее наложенный жгут</Russian>
-                <Spanish>Quitar Torniquetes</Spanish>
+                <Spanish>Quitar Torniquete</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_APPLY_TOURNIQUET">
                 <Original>Tourniquet</Original>
@@ -431,7 +431,7 @@
                 <Original>Find the Heart Rate</Original>
                 <Polish>Sprawdź tętno</Polish>
                 <Russian>Нащупать пульс</Russian>
-                <Spanish>Encontrar el ritmo cardiaco</Spanish>
+                <Spanish>Buscar ritmo cardiaco</Spanish>
             </Key>
             <Key ID="STR_CSE_ACTION_CHECK_BP">
                 <Original>Check Blood Pressure</Original>
